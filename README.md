@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
-<h3 align="center">A passionate frontend developer from Turkey.</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhansimsek-dev&label=Profile%20views&color=ffbb00&style=flat" alt="oguzhansimsek-dev" /> </p>
 
