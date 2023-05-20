@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhansimsek-dev&label=Profile%20views&color=ffbb00&style=flat" alt="oguzhansimsek-dev" /> </p>
 
-- 🌱 I’m currently learning **C#, .NET Framework**
+<!-- 🌱 I’m currently learning **C#, .NET Framework**-->
 
 - 📫 How to reach me **oguzhansimsek.dev@gmail.com**
 
