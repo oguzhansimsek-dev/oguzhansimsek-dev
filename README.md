@@ -5,7 +5,7 @@
 
 <!-- 🌱 I’m currently learning **C#, .NET Framework**-->
 
-- 📫 How to reach me **oguzhansimsek.dev@gmail.com**
+- 📫 How to reach me **contact@oguzhansimsek.dev**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
