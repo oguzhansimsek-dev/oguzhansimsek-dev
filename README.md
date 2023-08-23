@@ -6,6 +6,7 @@
 <!-- 🌱 I’m currently learning **C#, .NET Framework**-->
 
 - 📫 How to reach me **contact@oguzhansimsek.dev**
+-  My portfolio -> <a href="https://oguzhansimsek.dev" style="color: #e45447;" >oguzhansimsek.dev</a>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
