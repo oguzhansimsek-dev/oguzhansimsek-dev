@@ -5,8 +5,9 @@
 
 <!-- 🌱 I’m currently learning **C#, .NET Framework**-->
 
-- 📫 How to reach me **contact@oguzhansimsek.dev**
+- 📫 How to reach me **oguzhan.simsek@3w.codes**
 -  My portfolio -> <a href="https://oguzhansimsek.dev" style="color: #e45447;" >oguzhansimsek.dev</a>
+-  3w Codes -> <a href="https://3w.codes" style="color: #e45447;" >3w.codes</a>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
